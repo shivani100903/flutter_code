@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter app template
 The [Flutter](https://flutter.dev/) template, configured for [Gitpod](https://www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.
 
@@ -16,3 +17,6 @@ Click the above "Open in Gitpod" button to start a new workspace. Once you're re
 ### An existing project
 
 Copy and commit the [`.gitpod.yml`](./.gitpod.yml) and [`.gitpod.Dockerfile`](./.gitpod.Dockerfile) to your existing project to have the same configuration of this template. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+=======
+# flutter_code
+>>>>>>> c77f1de75414e9e278153bb119c4faf6cf243f4b
